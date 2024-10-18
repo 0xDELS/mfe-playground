@@ -1,1 +1,1 @@
-# mfe-course
+# mfe-playground
